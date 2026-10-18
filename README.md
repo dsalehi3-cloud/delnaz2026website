@@ -1,6 +1,8 @@
 # DESA — Delnaz Salehi Architecture
 
-Portfolio website. One self-contained page: `index.html`.
+**Live site:** https://dsalehi3-cloud.github.io/delnaz2026website/
+
+Portfolio website. One self-contained page: `index.html`. Every push to `main` redeploys the live site through GitHub Pages (`.github/workflows/pages.yml`).
 
 ## Editing
 - **Projects** — the `PROJECTS` array at the top of the script in `index.html`. One object per project; it fills the Work grid and each project page.
